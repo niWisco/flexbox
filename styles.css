@@ -26,11 +26,6 @@ body {
   justify-content: space-around;
 }
 
-.container_allign-start {
-  display: flex;
-  align-items: end;
-}
-
 .box {
   height: 7rem;
   width: 7rem;
